@@ -21,4 +21,10 @@ This game was created by Max Pfisterer in the **Programming 1** course at FH Joa
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md)
 
+***
+## Author
+GitHub Profile: [https://github.com/max-pfi](https://github.com/max-pfi)
+
+FH Joanneum: [https://www.fh-joanneum.at](https://www.fh-joanneum.at)
+
 
