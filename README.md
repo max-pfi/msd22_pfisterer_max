@@ -19,5 +19,6 @@ This game was created by Max Pfisterer in the **Programming 1** course at FH Joa
 ***
 ## Exercise List
 - [Exercise1](exercise1.md)
+- [Exercise2](exercise2.md)
 
 
