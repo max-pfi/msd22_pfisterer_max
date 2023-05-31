@@ -99,7 +99,7 @@ public class CalculatorTest {
     @DisplayName("Testing factorial() with positive number")
     @Test
     void testFactorialWithPositiveNumber() {
-        assertEquals(120, calculator.factorial(5));
+        assertEquals(720, calculator.factorial(6));
     }
 
     @DisplayName("Testing factorial() with number one as input")

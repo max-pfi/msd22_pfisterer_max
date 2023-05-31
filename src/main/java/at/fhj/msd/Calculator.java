@@ -23,7 +23,18 @@ public class Calculator {
     }
 
     public long factorial(long number) {
-        return 0;
+
+        if(number < 0) {
+            return 0;
+        } else if(number == 0) {
+            return 1;
+        }
+        int result = 1;
+        for(long i = number; i > 1; i --) {
+            result *= i;
+        }
+        return result;
+
     }
 
 
