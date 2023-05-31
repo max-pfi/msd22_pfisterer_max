@@ -25,3 +25,4 @@
 
 ### Screenshots 
 ![Image](/resources/images/ex4_1.png)
+![Image](/resources/images/ex4_2.png)

@@ -90,6 +90,24 @@ public class CalculatorTest {
         assertEquals(-2, calculator.divide(-12,6));
     }
 
+    @DisplayName("Testing factorial() with 0")
+    @Test
+    void testFactorialWithZero() {
+        assertEquals(1, calculator.factorial(0));
+    }
+
+    @DisplayName("Testing factorial() with positive number")
+    @Test
+    void testFactorialWithPositiveNumber() {
+        assertEquals(120, calculator.factorial(5));
+    }
+
+    @DisplayName("Testing factorial() with number one as input")
+    @Test
+    void testFactorialWithOne() {
+        assertEquals(1, calculator.factorial(1));
+    }
+
 
 
 
