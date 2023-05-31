@@ -12,6 +12,9 @@ public class Calculator {
     }
 
     public double divide(double number1, double number2){
+        if(number2 == 0) {
+            throw new ArithmeticException();
+        }
         return number1 / number2;
     }
 

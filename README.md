@@ -21,6 +21,7 @@ This game was created by Max Pfisterer in the **Programming 1** course at FH Joa
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md)
 - [Exercise3](exercise3.md)
+- [Exercise4](exercise4.md)
 
 ***
 ## Author
