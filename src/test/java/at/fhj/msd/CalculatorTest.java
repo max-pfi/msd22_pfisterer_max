@@ -81,7 +81,7 @@ public class CalculatorTest {
     @DisplayName("Testing divide() with denominator 0")
     @Test
     void testDivideDenominatorZero() {
-        Assertions.assertThrows(ArithmeticException.class, () -> calculator.divide(6,0));
+        Assertions.assertThrows(ArithmeticException.class, () -> calculator.divide(5,0));
     }
 
     @DisplayName("Testing divide() with one negative number")

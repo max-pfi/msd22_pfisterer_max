@@ -17,11 +17,13 @@ The game has as many rounds as words were entered in the **wantedWords** file. F
 ## Contributing
 This game was created by Max Pfisterer in the **Programming 1** course at FH Joanneum, following the instructions in the course.
 ***
+##
 ## Exercise List
 - [Exercise1](exercise1.md)
 - [Exercise2](exercise2.md)
 - [Exercise3](exercise3.md)
 - [Exercise4](exercise4.md)
+- [Exercise5](exercise5.md)
 
 ***
 ## Author
