@@ -3,15 +3,22 @@ package at.fhj.msd;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * Calculator class for different types of calculations
+ *
+ * @author Max Pfisterer
+ */
 public class Calculator {
 
+    /**
+     * Logger for this class
+     */
     private static Logger logger = LogManager.getLogger();
 
 
     /**
      * Calculates the summation result of two input numbers and returns it.
      *
-     * @author Max Pfisterer
      * @param number1 first input number for calculation
      * @param number2 second input number for calculation
      * @return the result of adding number1 and number2
@@ -24,7 +31,6 @@ public class Calculator {
     /**
      * Calculates the subtraction result of two input numbers and returns it.
      *
-     * @author Max Pfisterer
      * @param number1 base number from which something is subtracted
      * @param number2 number which gets subtracted
      * @return the result of subtracting number2 from number1
@@ -37,7 +43,6 @@ public class Calculator {
     /**
      * Calculates the division result of two input numbers and returns it.
      *
-     * @author Max Pfisterer
      * @param number1 numerator
      * @param number2 denominator
      * @return the result of the division
@@ -56,7 +61,6 @@ public class Calculator {
     /**
      * Calculates the multiplication result of two input numbers and returns it.
      *
-     * @author Max Pfisterer
      * @param number1 first input number for multiplication
      * @param number2 second input number for multiplication
      * @return the result of the multiplication
@@ -69,7 +73,6 @@ public class Calculator {
     /**
      * Calculates the factorial of a given number
      *
-     * @author Max Pfisterer
      * @param  number for which the factorial is calculated
      * @return the result
      */
